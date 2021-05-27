@@ -1,0 +1,1 @@
+worker: python compression_img.py
