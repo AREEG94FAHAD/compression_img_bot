@@ -1,4 +1,4 @@
-# photo compressor 🖼️🖼️
+# Photo compressor 🖼️🖼️
 With this bot, you can now compress your photo.
 
 # Features
